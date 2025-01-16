@@ -4,7 +4,7 @@ Meeting Minute
 ###### tags: `Templates` `Meeting`
 
 :::info
-- **Location:** Room A
+- **Location:** Room A xxx
 - **Date:** Nov 1, 2030 2:30 PM (CET)
 - **Agenda**
 1. Walk through signup flow `45min`
